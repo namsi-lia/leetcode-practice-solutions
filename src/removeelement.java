@@ -15,7 +15,7 @@ import java.util.Arrays;
 
 /***
  * Approach to solve this solution
- * initialize to variables i and j as pointers
+ * initialize two variables i and j as pointers
  * to point to the beginning of the nums and nums2 arrays respectively
  * 2. create a loop that iterates until variable i reaches the end of nums in each iteration it compares the element at nums[i] to val
  * if the element at nums[i] is not equal to val the element at nums[i] to nums[j] and increments j otherwise it increments i
